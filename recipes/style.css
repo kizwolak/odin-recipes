@@ -1,0 +1,14 @@
+.heading{
+    color: purple;
+    font-weight: 700;
+    border: 2px solid red;
+    margin
+}
+
+.recipe{
+    background-color: cadetblue;
+    font-size: medium;
+    border: 2px solid red;
+    /* margin: 100px 20px; */
+    margin: 120px 400px
+}

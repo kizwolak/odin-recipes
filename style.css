@@ -1,0 +1,14 @@
+.red {
+    color: red;
+    background-color: purple;
+}
+
+#two {
+    color: yellow;
+    background-color: aqua;
+}
+
+.red,
+#two {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
